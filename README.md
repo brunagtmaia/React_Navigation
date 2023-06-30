@@ -18,9 +18,9 @@ O projeto possui as seguintes funcionalidades:
 ## Fotos
 
 <div style = "display:flex;">
-    <img src="assets/WhatsApp Image 2023-06-30 at 14.11.10.jpeg" width="auto" height="50px">
-    <img src="assets/WhatsApp Image 2023-06-30 at 14.11.12.jpeg" width="auto" height="50px">
-    <img src="assets/WhatsApp Image 2023-06-30 at 14.11.12 (1).jpeg" width="auto" height="50px">
+    <img src="assets/WhatsApp Image 2023-06-30 at 14.11.10.jpeg" width="auto" height="500px">
+    <img src="assets/WhatsApp Image 2023-06-30 at 14.11.12.jpeg" width="auto" height="500px">
+    <img src="assets/WhatsApp Image 2023-06-30 at 14.11.12 (1).jpeg" width="auto" height="500px">
 </div>
 
 
